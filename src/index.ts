@@ -1,9 +1,9 @@
 import "./styles.css";
 
 document.getElementById("app").innerHTML = `
-<h1>hHello Vanilla!</h1>
+<h1>Julian Lopez</h1>
+<h2>Trabajos realizados</h2>
 <div>
-  We use the same configuration as Parcel to bundle this sandbox, you can find more
-  info about Parcel 
-  <a href="https://parceljs.org" target="_blank" rel="noopener noreferrer">here</a>.
+  Clase 1 - Ejercicio de realizar un Instructivo
+  <a href="Clase1EjercicioInstructivo/index.html" target="_blank" rel="noopener noreferrer">click aqui</a>.
 </div>`;
