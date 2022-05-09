@@ -4,11 +4,13 @@ document.getElementById("app").innerHTML = `
 <h1>Julian Lopez</h1>
 <h2>Trabajos realizados</h2>
 <div>
-  Clase 1 - Ejercicio 1: Realizar un Instructivo
+  Filmina 1 - Ejercicio 1: Realizar un instructivo
 </div>
 <div>
-  Clase 2 - Ejercicio 1: Area del Rectangulo
+  Filmina 2 - Ejercicio 1: Area del rectangulo
+  Filmina 2 - Ejercicio 2: Tareas de la granjera
 </div>
 <div>
-  Clase 3 - 
-</div)
+  Filmina 3 - 
+</div)`;
+// este es un comentario
