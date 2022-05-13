@@ -7,10 +7,12 @@ document.getElementById("app").innerHTML = `
         Filmina 1 - Ejercicio 1: Realizar un instructivo
     </div>
     <div>
-        Filmina 2 - Ejercicio 1: Area del rectangulo
-        Filmina 2 - Ejercicio 2: Tareas de la granjera
-        Filmina 2 - Ejercicio 3: Formulario de ingreso de datos (tambien hay un sandbox de solo este ejercicio)
-        Filmina 2 - Ejercicio 4: Realizar un instructivo(almacenado en variables)
+        <p>Filmina 2 - Ejercicio 1: Area del rectangulo</p>
+        <p>Filmina 2 - Ejercicio 2: Tareas de la granjera</p>
+        <p>Filmina 2 - Ejercicio 3: Formulario de ingreso de datos (tambien hay un sandbox de solo este ejercicio)</p>
+        <p>Filmina 2 - Ejercicio 4: Realizar un instructivo(almacenado en variables)</p>
+        <p>Filmina 2 - Ejercicio 5: Area del rectangulo(almacenado en variables)</p>
+        <p>Filmina 2 - Ejercicio 5: Area del rectangulo(almacenado en variables)</p>
 
     </div>
     <div>
