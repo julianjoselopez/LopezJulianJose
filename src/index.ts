@@ -12,7 +12,9 @@ document.getElementById("app").innerHTML = `
         <p>Filmina 2 - Ejercicio 3: Formulario de ingreso de datos (tambien hay un sandbox de solo este ejercicio)</p>
         <p>Filmina 2 - Ejercicio 4: Realizar un instructivo(almacenado en variables)</p>
         <p>Filmina 2 - Ejercicio 5: Area del rectangulo(almacenado en variables)</p>
-        <p>Filmina 2 - Ejercicio 6: Calculo de descuento</p>
+        <p>Filmina 2 - Ejercicio 6: Suma de dos numeros</p>
+        <p>Filmina 2 - Ejercicio 7: Area del rectangulo(ingresando los valores)</p>
+        <p>Filmina 2 - Ejercicio 8: Calculo de descuento</p>
 
     </div>
     <div>
