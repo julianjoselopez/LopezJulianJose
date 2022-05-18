@@ -16,9 +16,10 @@ document.getElementById("app").innerHTML = `
         <p>Filmina 2 - Ejercicio 7: Area del rectangulo(ingresando los valores)</p>
         <p>Filmina 2 - Ejercicio 8: Calculo de descuento</p>
         <p>Filmina 2 - Ejercicio 9: Autos de Carrera</p>
-
     </div>
     <div>
-        Filmina 3 - 
+        <p>Filmina 3 - Ejercicio 1: Aplicar Descuento</p>
+        <p>Filmina 3 - Ejercicio 2: Validar Altura</p>
+        
     </div);
 // este es un comentario
