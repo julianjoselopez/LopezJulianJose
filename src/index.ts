@@ -20,6 +20,7 @@ document.getElementById("app").innerHTML = `
     <div>
         <p>Filmina 3 - Ejercicio 1: Aplicar Descuento</p>
         <p>Filmina 3 - Ejercicio 2: Validar Altura</p>
+        <p>Filmina 3 - Ejercicio 3: Login</p>
         
     </div);
 // este es un comentario
