@@ -21,6 +21,9 @@ document.getElementById("app").innerHTML = `
         <p>Filmina 3 - Ejercicio 1: Aplicar Descuento</p>
         <p>Filmina 3 - Ejercicio 2: Validar Altura</p>
         <p>Filmina 3 - Ejercicio 3: Login</p>
+        <p>Filmina 3 - Ejercicio 4: Determinar Medalla</p>
+        <p>Filmina 3 - Ejercicio 5: Mayor de tres</p>
+        <p>Filmina 3 - Ejercicio 6: Par/Impar</p>
         
     </div);
 // este es un comentario
