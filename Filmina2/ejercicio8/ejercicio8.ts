@@ -1,8 +1,7 @@
 preciodegondola.innerHTML = "Ingrese el precio:";
-let btnEnv = document.getElementById("btnEnviar");
 let precioDeLista = document.forms[0].precio;
 
-btnEnv.addEventListener("click", () => {
+btnEnviar.addEventListener("click", () => {
   let precioLista: number = precioDeLista.value;
   let descuento: number = precioLista * 0.1;
   let precioFinal: number = precioLista * 0.9;

@@ -1,4 +1,3 @@
-let btnEnv = document.getElementById("btnEnviar");
 let num1 = document.forms[0].dato1;
 let num2 = document.forms[0].dato2;
 let num3 = document.forms[0].dato3;
@@ -9,7 +8,7 @@ vuelta2.innerHTML = "Ingrese la vuelta numero 2";
 vuelta3.innerHTML = "Ingrese la vuelta numero 3";
 vuelta4.innerHTML = "Ingrese la vuelta numero 4";
 
-btnEnv.addEventListener("click", () => {
+btnEnviar.addEventListener("click", () => {
   let vuelta1: number = Number(num1.value);
   let vuelta2: number = Number(num2.value);
   let vuelta3: number = Number(num3.value);
