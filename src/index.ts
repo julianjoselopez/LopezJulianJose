@@ -29,7 +29,9 @@ document.getElementById("app").innerHTML = `
     </div>
     <div>
         <p>Filmina 4 - Ejercicio 1: Promedio de notas</p>    
-        <p>Filmina 4 - Ejercicio 2: Promedio de notas con prompt</p>    
+        <p>Filmina 4 - Ejercicio 2: Promedio de notas con while</p>    
+        <p>Filmina 4 - Ejercicio 3: Promedio de notas con for</p>    
+        <p>Filmina 4 - Ejercicio 4: Eureka</p> 
         <p>Filmina 4 - Ejercicio x: Suma entre números</p>
         
     </div);
