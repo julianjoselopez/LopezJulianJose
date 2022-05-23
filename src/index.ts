@@ -28,6 +28,8 @@ document.getElementById("app").innerHTML = `
         <p>Filmina 3 - Ejercicio 8: Aumento de Sueldo</p>    
     </div>
     <div>
+        <p>Filmina 4 - Ejercicio 1: Promedio de notas</p>    
+        <p>Filmina 4 - Ejercicio 2: Promedio de notas con prompt</p>    
         <p>Filmina 4 - Ejercicio x: Suma entre números</p>
         
     </div);
