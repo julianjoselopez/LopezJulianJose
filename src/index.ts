@@ -32,7 +32,17 @@ document.getElementById("app").innerHTML = `
         <p>Filmina 4 - Ejercicio 2: Promedio de notas con while</p>    
         <p>Filmina 4 - Ejercicio 3: Promedio de notas con for</p>    
         <p>Filmina 4 - Ejercicio 4: Eureka</p> 
-        <p>Filmina 4 - Ejercicio x: Suma entre números</p>
-        
+        <p>Filmina 4 - Ejercicio 5: Mulpiplos</p> 
+        <p>Filmina 4 - Ejercicio 6: Par/Impar(2)</p> 
+        <p>Filmina 4 - Ejercicio 7: Suma entre números</p>
+        <p>Filmina 4 - Ejercicio 8: Tablas de Multiplicacion</p> 
+        <p>Filmina 4 - Ejercicio 9: Encontrar el numero Maximo</p> 
+        <p>Filmina 4 - Ejercicio 10: Cantidad y Distribucion de positivos</p> 
+        <p>Filmina 4 - Ejercicio 11: Promedio Maximo Minimo</p> 
+        <p>Filmina 4 - Ejercicio 12: Cantidad y Distribucion de positivos</p> 
+        <p>Filmina 4 - Ejercicio 13: Dados</p> 
+
+
+
     </div);
 // este es un comentario
